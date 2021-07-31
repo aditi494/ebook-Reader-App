@@ -1,0 +1,10 @@
+{
+  "name": "eBook-Reader",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}

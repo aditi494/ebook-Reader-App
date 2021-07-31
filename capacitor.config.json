@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "eBook-Reader",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
